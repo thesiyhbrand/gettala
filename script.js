@@ -5,7 +5,7 @@ document.querySelector(".ri-menu-3-fill").addEventListener("click", function(){
 });
 
 document.querySelector(".ri-close-line").addEventListener("click", function(){
-    document.querySelector("#nav-menu").style.top = "-100%";
+    document.querySelector("#nav-menu").style.top = "-120%";
     document.querySelector(".ri-close-line").style.display = "none";
     document.querySelector(".ri-menu-3-fill").style.display = "initial";
 });

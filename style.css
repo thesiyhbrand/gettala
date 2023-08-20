@@ -80,7 +80,7 @@ nav a{
 
 #nav-menu{
     position: absolute;
-    top: -100%;
+    top: -120%;
     width: 100%;
     height: 100vh;
     background-color: #d7a5a5;
@@ -478,6 +478,5 @@ nav a{
     } 
     .part-7 h1{
         font-size: 20vw;
-        background-color: #eee;
     }
 }
